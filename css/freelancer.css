@@ -409,6 +409,10 @@ a:focus, a:hover, a:active {
 
 @media (max-width: 560px) {
 
+  .video-container iframe {
+    width: auto;
+  }
+
 .alignleft {
   float: none;
 }
