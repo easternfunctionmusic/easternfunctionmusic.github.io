@@ -83,6 +83,7 @@ section h2 {
 }
 .alignright {
   float: right;
+  text-align: right;
 }
 
 @media (min-width: 992px) {
